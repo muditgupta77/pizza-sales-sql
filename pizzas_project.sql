@@ -1,3 +1,4 @@
+create database pizza_sales;
 use pizza_sales;
 show tables;
 select * from pizzas;
