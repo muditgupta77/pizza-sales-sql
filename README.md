@@ -1,10 +1,10 @@
-🍕 Pizza Ordering & Inventory Management Database
+# 🍕 Pizza Ordering & Inventory Management Database
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project is a Pizza Ordering and Inventory Management Database, designed to efficiently manage pizza orders, track inventory, and streamline restaurant operations. It provides a structured SQL database to handle customer orders, pizza details, ingredients, and stock levels, ensuring smooth business processes.
 
-🏗️ Features
+# 🏗️ Features
 
 Order Management: Store and manage pizza orders, customer details, and transaction history.
 
@@ -16,7 +16,7 @@ Customer Data Handling: Store customer information for tracking orders and prefe
 
 Efficient Queries: Optimized SQL queries for fetching relevant data.
 
-📁 Project Structure
+# 📁 Project Structure
 
 Database Schema: Defines tables, relationships, and constraints.
 
@@ -26,7 +26,7 @@ Sample Data: Sample entries for testing the database.
 
 Stored Procedures & Triggers: Ensure data consistency and automate processes.
 
-🔧 Installation & Setup
+# 🔧 Installation & Setup
 
 Install MySQL/PostgreSQL (or any preferred SQL database system).
 
@@ -44,7 +44,7 @@ Verify tables and relationships using:
 SHOW TABLES;  -- For MySQL
 SELECT * FROM information_schema.tables;  -- For PostgreSQL
 
-📊 Database Schema
+# 📊 Database Schema
 
 The database includes the following key tables:
 
@@ -60,7 +60,7 @@ ingredients - Lists ingredients and stock levels.
 
 inventory - Manages inventory levels of ingredients.
 
-🖥️ Usage
+# 🖥️ Usage
 
 Placing an Order:
 
@@ -74,7 +74,7 @@ Fetching Customer Orders:
 
 SELECT * FROM orders WHERE customer_id = 1;
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 SQL Database: MySQL / PostgreSQL
 
@@ -82,7 +82,7 @@ Stored Procedures & Triggers: For automation and consistency
 
 Normalization Techniques: To optimize performance
 
-📌 Future Enhancements
+# 📌 Future Enhancements
 
 Implement a web interface for easy order management.
 
@@ -90,10 +90,10 @@ Integrate analytics for sales insights.
 
 Automate stock replenishment based on demand.
 
-🤝 Contributing
+# 🤝 Contributing
 
 Feel free to fork the repository and contribute. Suggestions and improvements are always welcome!
 
-📜 License
+# 📜 License
 
 This project is licensed under the MIT License.
