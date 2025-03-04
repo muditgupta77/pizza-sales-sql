@@ -98,3 +98,8 @@ Feel free to fork the repository and contribute. Suggestions and improvements ar
 
 This project is licensed under the MIT License.
 
+🔗 Stay connected:
+
+GitHub: Your GitHub Profile
+
+Contact: your-email@example.com
