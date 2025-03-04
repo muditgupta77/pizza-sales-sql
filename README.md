@@ -97,9 +97,3 @@ Feel free to fork the repository and contribute. Suggestions and improvements ar
 📜 License
 
 This project is licensed under the MIT License.
-
-🔗 Stay connected:
-
-GitHub: Your GitHub Profile
-
-Contact: your-email@example.com
